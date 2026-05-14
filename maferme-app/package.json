@@ -1,0 +1,13 @@
+{
+  "name": "ferme-avicole",
+  "version": "1.0.0",
+  "description": "Application de gestion de ferme avicole (poulets de chair)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
